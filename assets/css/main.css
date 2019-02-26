@@ -1614,7 +1614,7 @@
 /* kirsten stuff */
 
 .kirstencontent {
-	width: 70%;
+	width: 40%;
 }
 
 
@@ -1642,16 +1642,20 @@
 }
 
 @media screen and (max-width: 980px) {
-	
+	.kirstencontent {
+		width: 60%;
+	}
 
+}
 
 @media screen and (max-width: 735px) {
-	
+		.kirstencontent {
+		width: 80%;
+	}
 }
 
 
 
-}
 
 @media screen and (max-width: 480px) {
 	
